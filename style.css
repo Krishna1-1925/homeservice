@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.back-image{
+    background-size: 100% 91vh;
+    background-position: center ;
+    background-repeat: no-repeat;
+    border-radius: 0;
+    height: 91vh;
+    margin-top: 56px;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.text {
+    color: #f0AAB1;   
+}
+.navbar #myMenu .custom-nav .nav-item a {
+    color: white;
+}
+.navbar #myMenu .custom-nav .nav-item a:hover {
+    color: #f0AAB1;
+}
+.color{
+    color:white;
+ }
+ .colors{
+    color:rgb(171, 212, 240);
+ }
+ .fi-color {
+    color: #fff;
+ }
+ .fi-color:hover {
+    color: #dc3545;
+ }
+ .color_titel{
+    color: #f0AAB1;
+ }
+ .font-italic{
+    font-size: 24px;
+}
+/* margin for welcome */
+.mainHeading {
+    margin-top: 50px;
+    padding: 200px 0px 0px 50px;
+}
+.about{
+    margin-top:15px;
+}
